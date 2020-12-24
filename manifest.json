@@ -3,5 +3,9 @@
     "version": "1.0",
     "description": "Get phone call reminders for your Google Calendar Events!",
     "manifest_verison": 2,
-    "browsr_verio "
+    "browser_action": {
+        "default_popup": "./index.html",
+        "default_title": "gCal Phone Call Alerts!",
+        "default_icon": "./image.png"
+    }
 }
