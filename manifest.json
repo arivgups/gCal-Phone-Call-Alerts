@@ -1,3 +1,7 @@
 {
-    "name": "gCal Phone Call Alerts"
+    "name": "gCal Phone Call Alerts",
+    "version": "1.0",
+    "description": "Get phone call reminders for your Google Calendar Events!",
+    "manifest_verison": 2,
+    "browsr_verio "
 }
