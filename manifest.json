@@ -2,7 +2,8 @@
     "name": "gCal Phone Call Alerts",
     "version": "1.0",
     "description": "Get phone call reminders for your Google Calendar Events!",
-    "manifest_verison": 2,
+    "manifest_version": 2,
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr03qcdiWufTpWXbCshuhwaxRbAF1TjaQr2N52my81P2elwVJOZaCctIsXsW2A+tLT4JvzAcCawingvYCQ+q2dGU9Gip6Gh6RfsVx/R3wACRi677SU5TaMmARkrrxgrc3fE71pJ/cjoxvE79Qn4O9SG00kjCCpqbdt3/c1ymf+IN874dNEK9xeXgFUb2qtVfW+Z9GkV1HhSK9/g2aTz6tKdMm1v4NQMY5MDJvzraNRNVIip/BaZpVrcBxkW4ptTjNG6ha4Yq9voUvo5UNc2NjUiagVCjmVKm/Kvl6XO5eAWZtS+0+w/0T9+Rm0qRtWjAMOCfVssKnKHXeKx83yBwyeQIDAQAB",
     "browser_action": {
         "default_popup": "./index.html",
         "default_title": "gCal Phone Call Alerts!",
